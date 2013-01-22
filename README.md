@@ -4,26 +4,25 @@ I'm going to record what I need, and what I need to do to make it easier in the 
 
 ## Small Business Taxes in Five Minutes A Week
 
-#### January 1st ####
+### January 1st ###
 
-* ###### log the mileage on any cars that you own ######
+* ##### log the mileage on any cars that you own #####
 
-  You'll use this to help you calculate your business mileage.
+  * You'll use this to help you calculate your business mileage.
 
-#### First Monday of January ####
+### First Monday of January ###
 
-* ###### e-mail: get ready to pay quarterly taxes (federal and state) for Q4 of last year.#####
+* ##### e-mail: get ready to pay quarterly taxes (federal and state) for Q4 of last year.#####
 
-  Make sure there's enough in your business checking account.
+  * Make sure there's enough in your business checking account.
 
-* ###### Review the addresses where you send your tax payments. #####
+* ##### Review the addresses where you send your tax payments. #####
 
-  Helpful IRS site: [http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Estimated-Taxes](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Estimated-Taxes)
+  * Helpful IRS site: [http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Estimated-Taxes](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Estimated-Taxes)
 
+### Second Monday of January ###
 
-#### Second Monday of January ####
-
-* ###### go to IRS website to get 1098s and 1096s for your employees #####
+* ##### go to IRS website to get 1098s and 1096s for your employees ####
 
   [www.irs.gov/Businesses/Online-Ordering-for-Information-Returns-and-Employer-Returns](www.irs.gov/Businesses/Online-Ordering-for-Information-Returns-and-Employer-Returns)
 
